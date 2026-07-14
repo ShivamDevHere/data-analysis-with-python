@@ -11,3 +11,4 @@ pip install -r requirements.txt
 #### Additional info
 
 - `df.describe() + Shift + Tab:` shows important info
+- `df.drop('Route', axis=1, inplace=True):` axis(0:row, 1:col)
