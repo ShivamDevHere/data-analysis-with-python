@@ -12,3 +12,8 @@ pip install -r requirements.txt
 
 - `df.describe() + Shift + Tab:` shows important info
 - `df.drop('Route', axis=1, inplace=True):` axis(0:row, 1:col)
+
+
+#### Excercise
+
+- L135: assignement (end)
