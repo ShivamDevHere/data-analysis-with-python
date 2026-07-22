@@ -8,7 +8,7 @@ A structured collection of Python notebooks covering data analysis fundamentals,
 - Pandas
 - Matplotlib
 - Seaborn
-
+- EDA 
 ---
 
 ## 🔢 NumPy
