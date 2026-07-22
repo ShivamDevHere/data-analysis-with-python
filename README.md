@@ -58,6 +58,10 @@ A structured collection of Python notebooks covering data analysis fundamentals,
 - Outlier Detection
 - Insight Generation
 
+- Datasets Cleaned
+    1. Red Wine Quality
+    2. Flight Price
+    3. Google Playstore
 ---
 
 ## Run Code More Easily
